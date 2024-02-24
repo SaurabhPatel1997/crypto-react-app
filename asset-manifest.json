@@ -3,10 +3,10 @@
     "static/js/0.a3bb038e.chunk.js": "/cryptoverse-react-app/static/js/0.a3bb038e.chunk.js",
     "static/js/0.a3bb038e.chunk.js.map": "/cryptoverse-react-app/static/js/0.a3bb038e.chunk.js.map",
     "main.css": "/cryptoverse-react-app/static/css/main.c3bae5ef.chunk.css",
-    "main.js": "/cryptoverse-react-app/static/js/main.223f5414.chunk.js",
-    "main.js.map": "/cryptoverse-react-app/static/js/main.223f5414.chunk.js.map",
-    "runtime-main.js": "/cryptoverse-react-app/static/js/runtime-main.74f6a849.js",
-    "runtime-main.js.map": "/cryptoverse-react-app/static/js/runtime-main.74f6a849.js.map",
+    "main.js": "/cryptoverse-react-app/static/js/main.aaf3a90f.chunk.js",
+    "main.js.map": "/cryptoverse-react-app/static/js/main.aaf3a90f.chunk.js.map",
+    "runtime-main.js": "/cryptoverse-react-app/static/js/runtime-main.ac1adc1c.js",
+    "runtime-main.js.map": "/cryptoverse-react-app/static/js/runtime-main.ac1adc1c.js.map",
     "static/css/3.c055b5f8.chunk.css": "/cryptoverse-react-app/static/css/3.c055b5f8.chunk.css",
     "static/js/3.27a8c5a6.chunk.js": "/cryptoverse-react-app/static/js/3.27a8c5a6.chunk.js",
     "static/js/3.27a8c5a6.chunk.js.map": "/cryptoverse-react-app/static/js/3.27a8c5a6.chunk.js.map",
@@ -14,10 +14,10 @@
     "static/js/4.fc2e0f13.chunk.js.map": "/cryptoverse-react-app/static/js/4.fc2e0f13.chunk.js.map",
     "static/js/5.1b1e47a8.chunk.js": "/cryptoverse-react-app/static/js/5.1b1e47a8.chunk.js",
     "static/js/5.1b1e47a8.chunk.js.map": "/cryptoverse-react-app/static/js/5.1b1e47a8.chunk.js.map",
-    "static/js/6.acd0afed.chunk.js": "/cryptoverse-react-app/static/js/6.acd0afed.chunk.js",
-    "static/js/6.acd0afed.chunk.js.map": "/cryptoverse-react-app/static/js/6.acd0afed.chunk.js.map",
-    "static/js/7.dabe4c27.chunk.js": "/cryptoverse-react-app/static/js/7.dabe4c27.chunk.js",
-    "static/js/7.dabe4c27.chunk.js.map": "/cryptoverse-react-app/static/js/7.dabe4c27.chunk.js.map",
+    "static/js/6.cc2400ad.chunk.js": "/cryptoverse-react-app/static/js/6.cc2400ad.chunk.js",
+    "static/js/6.cc2400ad.chunk.js.map": "/cryptoverse-react-app/static/js/6.cc2400ad.chunk.js.map",
+    "static/js/7.7753e2bb.chunk.js": "/cryptoverse-react-app/static/js/7.7753e2bb.chunk.js",
+    "static/js/7.7753e2bb.chunk.js.map": "/cryptoverse-react-app/static/js/7.7753e2bb.chunk.js.map",
     "static/js/8.9d053a15.chunk.js": "/cryptoverse-react-app/static/js/8.9d053a15.chunk.js",
     "static/js/8.9d053a15.chunk.js.map": "/cryptoverse-react-app/static/js/8.9d053a15.chunk.js.map",
     "index.html": "/cryptoverse-react-app/index.html",
@@ -28,10 +28,10 @@
     "static/media/cryptocurrency.1548aced.png": "/cryptoverse-react-app/static/media/cryptocurrency.1548aced.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.74f6a849.js",
+    "static/js/runtime-main.ac1adc1c.js",
     "static/css/3.c055b5f8.chunk.css",
     "static/js/3.27a8c5a6.chunk.js",
     "static/css/main.c3bae5ef.chunk.css",
-    "static/js/main.223f5414.chunk.js"
+    "static/js/main.aaf3a90f.chunk.js"
   ]
 }
