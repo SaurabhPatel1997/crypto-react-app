@@ -39,16 +39,10 @@ const Navbar = () => {
       </div>
       {activeMenu && (
         <Menu theme="dark">
-          <Menu.Item
-            icon={<HomeOutlined />}
-            onClick={() => setActiveMenu(!activeMenu)}
-          >
+          <Menu.Item icon={<HomeOutlined />}>
             <Link to="/">Home</Link>
           </Menu.Item>
-          <Menu.Item
-            icon={<FundOutlined />}
-            onClick={() => setActiveMenu(!activeMenu)}
-          >
+          <Menu.Item icon={<FundOutlined />}>
             <Link to="/cryptocurrencies">Cryptocurrencies</Link>
           </Menu.Item>
         </Menu>
