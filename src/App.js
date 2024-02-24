@@ -18,13 +18,13 @@ const App = () => (
         <Suspense fallback={<Loader />}>
           <div className="routes">
             <Switch>
-              <Route exact path="/">
+              <Route exact path="/cryptoverse-react-app">
                 <Homepage />
               </Route>
-              <Route exact path="/cryptocurrencies">
+              <Route exact path="/cryptoverse-react-app/cryptocurrencies">
                 <Cryptocurrencies />
               </Route>
-              <Route exact path="/crypto/:coinId">
+              <Route exact path="/cryptoverse-react-app/crypto/:coinId">
                 <CryptoDetails />
               </Route>
             </Switch>
