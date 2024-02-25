@@ -29,10 +29,9 @@ const App = () => (
               </Route>
             </Switch>
           </div>
+          <Footer />
         </Suspense>
       </Layout>
-
-      <Footer />
     </div>
   </div>
 );

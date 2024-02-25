@@ -15,6 +15,14 @@ const Navbar = () => {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
+  const handleMenuItemClick = () => {
+    if (screenSize <= 800) {
+      setActiveMenu(false);
+    } else {
+      setActiveMenu(true);
+    }
+  };
+
   useEffect(() => {
     if (screenSize <= 800) {
       setActiveMenu(false);
@@ -39,10 +47,10 @@ const Navbar = () => {
       </div>
       {activeMenu && (
         <Menu theme="dark">
-          <Menu.Item icon={<HomeOutlined />}>
+          <Menu.Item icon={<HomeOutlined />} onClick={handleMenuItemClick}>
             <Link to="/cryptoverse-react-app">Home</Link>
           </Menu.Item>
-          <Menu.Item icon={<FundOutlined />}>
+          <Menu.Item icon={<FundOutlined />} onClick={handleMenuItemClick}>
             <Link to="/cryptoverse-react-app/cryptocurrencies">
               Cryptocurrencies
             </Link>
